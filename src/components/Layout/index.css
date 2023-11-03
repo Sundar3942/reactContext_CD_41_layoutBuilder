@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.layout {
+  padding: 30px 40px 0px 40px;
+  width: 1000px;
+}
+.layout-container {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 30px;
+}

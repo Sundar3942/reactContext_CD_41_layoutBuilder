@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #cbd5e1;
+  color: #475569;
+  margin-top: 5px;
+}

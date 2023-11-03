@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.body {
+  height: 400px;
+  display: flex;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.left-navbar {
+  padding: 12px;
+  background-color: #e2e8f0;
+  margin-right: 3px;
+  width: 400px;
+}
+.body-heading {
+  color: #475569;
+}
+li,
+.ad {
+  color: #64748b;
+}
+.content-container {
+  padding: 12px;
+  background-color: #f1f5f9;
+  width: 100%;
+}
+.right-navbar {
+  padding: 12px;
+  background-color: #e2e8f0;
+  margin-left: 3px;
+  width: 400px;
+}
+.ad-container {
+  width: 100%;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #64748b;
+  margin-bottom: 10px;
+}

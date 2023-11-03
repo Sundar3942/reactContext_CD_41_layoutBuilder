@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #cbd5e1;
+  color: #475569;
+}
